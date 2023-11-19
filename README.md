@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jirasin
-- 👀 I’m interested in coding and AI
-- 🌱 I’m currently learning coding 
+- 👋 Hi, I’m Jirasin Tancharern.
+- 👨‍🎓 I study at Ratanaratbumrung School.
+- 👀 I’m interested in coding and AI.
+- 🌱 I’m currently learning coding.
 
 <!---
 JirasinTan/JirasinTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
